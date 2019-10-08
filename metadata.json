@@ -4,90 +4,116 @@
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/bartramia-pomiformis-cells-biology-895203/",
     "license": "Pixabay License",
-    "author": "WikimediaImages"
-  },
-  {
-    "file": "bartramia.jpg",
-    "tags": "occupapp",
-    "reference": "https://pixabay.com/photos/bazzania-tricrenata-microscopic-903625/",
-    "license": "Pixabay License",
-    "author": "WikimediaImages"
+    "author": "WikimediaImages",
+    "height": 1288,
+    "width": 1936
   },
   {
     "file": "basketball.jpg",
     "tags": "occupapp",
     "reference": "https://commons.wikimedia.org/wiki/File:141100_-_Wheelchair_basketball_from_above_-_3b_-_2000_Sydney_match_photo.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Sport the library"
+    "author": "Sport the library",
+    "height": 1533,
+    "width": 2362
+  },
+  {
+    "file": "bazzania.jpg",
+    "tags": "occupapp",
+    "reference": "https://pixabay.com/photos/bazzania-tricrenata-microscopic-903625/",
+    "license": "Pixabay License",
+    "author": "WikimediaImages",
+    "height": 1288,
+    "width": 1936
   },
   {
     "file": "beach.jpg",
     "tags": "occupapp",
     "reference": "https://pxhere.com/fr/photo/1329820",
     "license": "CC0 Public Domain",
-    "author": "Pxhere"
+    "author": "Pxhere",
+    "height": 1975,
+    "width": 3511
   },
   {
     "file": "boats.jpg",
     "tags": "occupapp",
     "reference": "https://pxhere.com/fr/photo/1411917",
     "license": "CC0 Public Domain",
-    "author": "Pxhere"
+    "author": "Pxhere",
+    "height": 2992,
+    "width": 3992
   },
   {
     "file": "buffalo.jpg",
     "tags": "occupapp",
     "reference": "https://pxhere.com/en/photo/1139102",
     "license": "CC0 Public Domain",
-    "author": "Pxhere"
+    "author": "Pxhere",
+    "height": 1792,
+    "width": 2172
   },
   {
     "file": "honeycomb.jpg",
     "tags": "occupapp",
     "reference": "https://commons.wikimedia.org/wiki/File:Bienenwabe_mit_Eiern_und_Brut_5.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Waugsberg"
+    "author": "Waugsberg",
+    "height": 2176,
+    "width": 2901
   },
   {
     "file": "petanque.jpg",
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/pizza-food-italy-3000285/",
     "license": "CC BY-NC-ND 2.0",
-    "author": "Wally Gobetz"
+    "author": "Wally Gobetz",
+    "height": 1745,
+    "width": 2620
   },
   {
-    "file": "pizza.jpg",
+    "file": "pizza.png",
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/pizza-food-italy-3000285/",
     "license": "Pixabay license",
-    "author": "petrovhey"
+    "author": "petrovhey",
+    "height": 3731,
+    "width": 5597
   },
   {
     "file": "protest.jpg",
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/protest-black-lives-matter-sign-1567063/",
     "license": "Pixabay license",
-    "author": "Bruce Emmerling"
+    "author": "Bruce Emmerling",
+    "height": 1640,
+    "width": 2400
   },
   {
     "file": "tomatoes.jpg",
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/tomato-garlic-pepper-onion-2777341/",
     "license": "Pixabay license",
-    "author": "Engin_Akyurt"
+    "author": "Engin_Akyurt",
+    "height": 4227,
+    "width": 6341
   },
   {
     "file": "walruses.jpg",
     "tags": "occupapp",
     "reference": "https://commons.wikimedia.org/wiki/File:Round_Island-3.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "Bob Johnson"
+    "author": "Bob Johnson",
+    "height": 1954,
+    "width": 1858
   },
   {
     "file": "wolves.jpg",
     "tags": "occupapp",
     "reference": "https://pixabay.com/photos/wolves-wolf-pack-canis-lupus-221304/",
     "license": "Pixabay license",
-    "author": "WikiImages"
+    "author": "WikiImages",
+    "height": 1500,
+    "width": 2208
   }
 ]
